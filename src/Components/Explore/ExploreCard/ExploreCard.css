@@ -1,0 +1,22 @@
+.explorecard {
+    margin-left: 10px;
+    width: 200px;
+    height: 120px;
+}
+.explorecard__content__icon>img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+.explorecard__content__icon>p {
+    padding-top: 25px;
+    font-weight: bold;
+}
+.explorecard:hover {
+    background-color: rgb(224, 224, 224);
+    cursor: pointer;
+}
+.explorecard__link {
+    color: inherit;
+    text-decoration: inherit;
+}

@@ -1,0 +1,70 @@
+.card__img>img {
+    height: 140px;
+    width: 250px;
+    display: block; 
+}
+.card {
+    display: flex;
+}
+.card__textall {
+    margin-left: 10px;
+}
+.card__textall__details {
+    color: gray;
+    padding-top: 20px;
+    font-size: small;
+}
+.card__textall>p1 {
+    color: gray;
+    font-size: small;
+    display: inline;
+
+}
+.card__textall__channel:hover {
+    color: black;
+    cursor: pointer;
+}
+.card__textall__channel {
+    position: relative;
+    display: inline-block;
+  }
+  .card__textall__channel:hover .tooltiptext {
+    visibility: visible;
+  }
+  .card__textall__channel .tooltiptext {
+    visibility: hidden;
+    /* size: auto; */
+    height: auto;
+    width: 300px;
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  .card__img>p {
+      font-weight: small;
+      padding-right: 3px;
+      padding-left: 3px;
+      opacity:85%;
+      text-align: center;
+      background-color: black;
+      border-radius: 3px;
+      width: auto;
+      font-size: 11px;
+      color: white;
+    position: absolute; 
+    bottom:4px; 
+    right: 4px; 
+  }
+  .card__img {
+    position: relative;
+
+  }
