@@ -1,5 +1,6 @@
 import React from 'react'
 import CommonCardPage from '../Common/CommonCardPage/CommonCardsPage'
+import Skill from '../../../media/skills.png'
 function Skills() {
     const tabsDetails = ["Web Development", "Programming Language", "Tools", "Other"];
     const data = [
@@ -182,7 +183,7 @@ function Skills() {
 
     ]
     return (
-        <CommonCardPage page="Skills" tabsDetails={tabsDetails} data={data} icon="https://img-premium.flaticon.com/png/512/3080/premium/3080467.png?token=exp=1628422544~hmac=40fef1ac9f99e2db4c4f09d34dbb7940" />
+        <CommonCardPage page="Skills" tabsDetails={tabsDetails} data={data} icon={Skill} />
     )
 }
 

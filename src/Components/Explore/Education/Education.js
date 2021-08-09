@@ -1,6 +1,6 @@
 import React from 'react'
 import CommonCardPage from '../Common/CommonCardPage/CommonCardsPage'
-
+import EducationIcon from '../../../media/education.png'
 function Education() {
     const tabsDetails = ["Graduation", "Class 12th", "Class 10th"];
     const data = [{
@@ -37,7 +37,7 @@ function Education() {
         time: "9:23"
     }]
     return (
-        <CommonCardPage page="Education" tabsDetails={tabsDetails} data={data} icon="https://img-premium.flaticon.com/png/512/2936/premium/2936735.png?token=exp=1628422589~hmac=ab69ed88e049e85a2b755ccaa222e73c" />
+        <CommonCardPage page="Education" tabsDetails={tabsDetails} data={data} icon={EducationIcon} />
     )
 }
 
