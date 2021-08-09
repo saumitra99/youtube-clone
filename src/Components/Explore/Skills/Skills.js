@@ -11,7 +11,7 @@ function Skills() {
             title: "React.js",
             hoverData: "",
             channel: "Saumitra",
-            views: "10M views  • 1.9 years ago",
+            views: "8M views  • 1.9 years ago",
             desp: "",
             time: "8:00"
         },
@@ -22,7 +22,7 @@ function Skills() {
             title: "Redux-saga",
             hoverData: "",
             channel: "Saumitra",
-            views: "9M views  • 1.9 years ago",
+            views: "7M views  • 1.9 years ago",
             desp: "",
             time: "3:21"
         },
@@ -33,7 +33,7 @@ function Skills() {
             title: "Flask",
             hoverData: "",
             channel: "Saumitra",
-            views: "5M views  • 1.9 years ago",
+            views: "7M views  • 1.9 years ago",
             desp: "",
             time: "2:29"
         },
@@ -44,7 +44,7 @@ function Skills() {
             title: "JavaScript",
             hoverData: "",
             channel: "Saumitra",
-            views: "5M views  • 1.9 years ago",
+            views: "8M views  • 1.9 years ago",
             desp: "",
             time: "5:59"
         },
@@ -55,7 +55,7 @@ function Skills() {
             title: "CSS",
             hoverData: "",
             channel: "Saumitra",
-            views: "1.5M views  • 1.9 years ago",
+            views: "4M views  • 1.9 years ago",
             desp: "",
             time: "8:19"
         },
@@ -66,7 +66,7 @@ function Skills() {
             title: "Material UI",
             hoverData: "",
             channel: "Saumitra",
-            views: "4M views  • 2 years ago",
+            views: "6M views  • 2 years ago",
             desp: "",
             time: "10:00"
         },
@@ -77,7 +77,7 @@ function Skills() {
             title: "Semantic UI",
             hoverData: "",
             channel: "Saumitra",
-            views: "2M views  • 1 years ago",
+            views: "5M views  • 1 years ago",
             desp: "",
             time: "5:09"
         },
@@ -88,7 +88,7 @@ function Skills() {
             title: "Java",
             hoverData: "",
             channel: "Saumitra",
-            views: "5M views  • 8 years ago",
+            views: "6M views  • 8 years ago",
             desp: "",
             time: "7:00"
         },
@@ -132,7 +132,7 @@ function Skills() {
             title: "Github",
             hoverData: "",
             channel: "Saumitra",
-            views: "5M views  • 2 years ago",
+            views: "8M views  • 2 years ago",
             desp: "",
             time: "1:11"
         },
@@ -165,7 +165,7 @@ function Skills() {
             title: "webpack",
             hoverData: "",
             channel: "Saumitra",
-            views: "98k views  • 2 years ago",
+            views: "980k views  • 2 years ago",
             desp: "",
             time: "7:19"
         },
@@ -176,7 +176,7 @@ function Skills() {
             title: "RPA",
             hoverData: "",
             channel: "Saumitra",
-            views: "5M views  • 1 years ago",
+            views: "6M views  • 1 years ago",
             desp: "",
             time: "5:00"
         },
